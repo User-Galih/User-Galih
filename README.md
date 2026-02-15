@@ -1,16 +1,16 @@
-## Hi there 👋
+# Halo semua! 👋
 
-<!--
-**User-Galih/User-Galih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan, nama saya **Galih Putra Pratama**.
+Saya adalah mahasiswa **Informatics Engineering** di **Universitas Dian Nuswantoro (Udinus)**.
 
-Here are some ideas to get you started:
+Saat ini saya sedang fokus mengembangkan keahlian di bidang **Data Science**, **Machine Learning**, dan **Cybersecurity**. Saya sangat antusias dengan penerapan AI untuk solusi lingkungan dan keamanan siber di skala nasional maupun internasional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tentang Saya
+* 🎓 **Proyek Tugas Akhir**: Sedang mengembangkan aplikasi web klasifikasi sampah menggunakan arsitektur **EfficientNetV2**.
+* 🛡️ **Cybersecurity**: Sedang menempuh sertifikasi profesional **IBM Cybersecurity Analyst** melalui Coursera.
+* 💻 **Keahlian Teknis**: Pengembangan aplikasi berbasis Python untuk *Deep Learning* dan analisis data.
+* 🌏 **Visi Karier**: Beraspirasi menjadi ahli keamanan siber di Indonesia dan AI Engineer di tingkat global.
+
+### 📫 Mari Terhubung!
+Jika kamu tertarik untuk berdiskusi lebih lanjut atau berkolaborasi, silakan hubungi saya melalui:
+* **LinkedIn**: [Galih Putra Pratama](https://www.linkedin.com/in/galih-putra-pratama/)
